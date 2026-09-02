@@ -143,21 +143,6 @@ Modified PowerPoint regeneration
 🔗 View Repository
 
 </td>
-<td width="50%" valign="top">
-
-⚡ Currently Building
-
-Stronger Embedded / IoT portfolio
-
-Better GitHub project documentation
-
-DSA + LeetCode consistency
-
-Deployment and cloud fundamentals
-
-Professional portfolio website
-
-</td>
 </tr>
 </table>
 
@@ -204,30 +189,6 @@ Diploma in Computer Engineering
 </div>
 
 Merit Rank 37 in the Goa DTE Direct Second Year B.E. admission process, 2026–27
-
-Badminton Team Winners across 2023–24, 2024–25, 2025–26
-
-Badminton Individual Winner, 2023–24
-
-Table Tennis Individual Winner, 2024–25 and 2025–26
-
-Chess Team Winner, 2025–26
-
-Fusion 2026: 1st Place Shot Put, 1st Place Javelin
-
-📚 Currently Learning
-
-Programming with Generative AI — NPTEL
-
-Mobile Virtual Reality and Artificial Intelligence — NPTEL
-
-PRDV420: Introduction to R Programming — Saylor Academy
-
-IoT Security Analyst — NASSCOM / Skill India ✅
-
-Data Structures & Algorithms
-
-Embedded systems and IoT development
 
 🎯 2026–27 Focus
 

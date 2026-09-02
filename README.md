@@ -4,7 +4,7 @@
 
 Computer Engineering Student • Embedded / IoT Enthusiast • Software Developer
 
-<img href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Embedded+%26+IoT+Systems;ESP32+%7C+Sensors+%7C+Wireless+Communication;Python+%7C+Flask+%7C+Automation;Learning%2C+Building%2C+Debugging%2C+Repeating" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Embedded+%26+IoT+Systems;ESP32+%7C+Sensors+%7C+Wireless+Communication;Python+%7C+Flask+%7C+Automation;Learning%2C+Building%2C+Debugging%2C+Repeating" alt="Typing SVG" />
 
 <br/>
 

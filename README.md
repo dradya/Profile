@@ -123,7 +123,7 @@ Cloud / Deployment ██████░░░░░░░░░░░░░░ 
 </a>
 
 <a href="mailto:adyatirvir29@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-adyatirvir29%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>

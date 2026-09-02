@@ -18,13 +18,13 @@ Computer Engineering Student • Embedded / IoT Enthusiast • Software Develope
   <img src="https://img.shields.io/badge/GitHub-dradya-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=dradya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
-👩‍💻 About Me
+About Me:
 
 🎓 B.E. in Computer Engineering at Government Engineering College, Goa
 
@@ -44,8 +44,8 @@ Computer Engineering Student • Embedded / IoT Enthusiast • Software Develope
 
 📍 Goa, India
 
-🧰 Tech Stack
 
+Tech Stack:
 <div align="center">
 
 Languages
@@ -67,84 +67,6 @@ Frameworks, Libraries & Tools
 
 </div>
 <br/>
-🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🛰️ Wireless Human Detection System
-
-ESP32 • C/C++ • C1001 mmWave • nRF24L01 • OLED
-
-A prototype system for detecting human presence and wirelessly transmitting the result to a remote receiver.
-
-Highlights
-
-Transmitter + receiver architecture
-
-mmWave-based human detection
-
-nRF24L01 wireless communication
-
-OLED + buzzer alerts
-
-Hardware/software debugging and integration
-
-🔗 View Repository
-
-</td>
-<td width="50%" valign="top">
-
-🤖 AI PowerPoint Text Editor
-
-Python • Flask • OpenAI • Whisper • python-pptx
-
-An AI-assisted web app that edits PowerPoint slide content using natural-language or voice instructions.
-
-Highlights
-
-GPT-powered slide editing
-
-Voice instruction transcription
-
-PowerPoint upload/download
-
-Flask backend
-
-Programmatic slide manipulation
-
-🔗 View Repository
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-🧩 PowerPoint Image & Text Editor
-
-JavaScript • JSZip • OOXML • HTML • CSS
-
-A browser-based PowerPoint editor that reads .pptx package contents, extracts text/media, and writes edited files back.
-
-Highlights
-
-Client-side PPTX processing
-
-Image extraction and replacement
-
-Slide text editing
-
-OOXML parsing and rewriting
-
-Modified PowerPoint regeneration
-
-🔗 View Repository
-
-</td>
-</tr>
-</table>
 
 📊 GitHub Analytics
 
@@ -182,9 +104,6 @@ Diploma in Computer Engineering
 <div align="center">
 
 <img src="https://img.shields.io/badge/Goa%20DTE-Merit%20Rank%2037-2E7D32?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Badminton-Multiple%20Wins-1565C0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Table%20Tennis-Multiple%20Wins-C62828?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sports-Team%20Captain-6A1B9A?style=for-the-badge" />
 
 </div>
 

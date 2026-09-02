@@ -115,14 +115,6 @@ Software Engineering---███████████████░░░░
 DSA / Problem Solving--███████████░░░░░░░░░  Growing <br>
 Cloud / Deployment-----██████░░░░░░░░░░░░░░  Exploring <br>
 
-## 🎯 2026–27 Focus
-
-Embedded Systems       ████████████████████  Primary
-IoT Development        ████████████████████  Primary
-Software Engineering   ███████████████░░░░░  Secondary
-DSA / Problem Solving  ███████████░░░░░░░░░  Growing
-Cloud / Deployment     ██████░░░░░░░░░░░░░░  Exploring
-
 🤝 Connect With Me
 
 <div align="center">

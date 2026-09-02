@@ -231,11 +231,11 @@ Embedded systems and IoT development
 
 🎯 2026–27 Focus
 
-Embedded Systems      ████████████████████  Primary <br>
-IoT Development       ████████████████████  Primary <br>
-Software Engineering  ███████████████░░░░░  Secondary <br>
-DSA / Problem Solving ███████████░░░░░░░░░  Growing <br>
-Cloud / Deployment    ██████░░░░░░░░░░░░░░  Exploring <br>
+Embedded Systems           ████████████████████  Primary <br>
+IoT Development            ████████████████████  Primary <br>
+Software Engineering       ███████████████░░░░░  Secondary <br>
+DSA / Problem Solving      ███████████░░░░░░░░░  Growing <br>
+Cloud / Deployment         ██████░░░░░░░░░░░░░░  Exploring <br>
 
 🤝 Connect With Me
 

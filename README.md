@@ -107,11 +107,16 @@ Diploma in Computer Engineering
 
 </div>
 
----
+🎯 2026–27 Focus
+
+Embedded Systems-------████████████████████  Primary <br>
+IoT Development--------████████████████████  Primary <br>
+Software Engineering---███████████████░░░░░  Secondary <br>
+DSA / Problem Solving--███████████░░░░░░░░░  Growing <br>
+Cloud / Deployment-----██████░░░░░░░░░░░░░░  Exploring <br>
 
 ## 🎯 2026–27 Focus
 
-```text
 Embedded Systems       ████████████████████  Primary
 IoT Development        ████████████████████  Primary
 Software Engineering   ███████████████░░░░░  Secondary

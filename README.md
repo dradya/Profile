@@ -18,10 +18,10 @@ Computer Engineering Student • Embedded / IoT Enthusiast • Software Develope
   <img src="https://img.shields.io/badge/GitHub-dradya-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=dradya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
+<br/>
 </div>
 
 👩‍💻 About Me
@@ -64,7 +64,7 @@ Frameworks, Libraries & Tools
 <img src="https://img.shields.io/badge/mmWave-Human%20Detection-6A1B9A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/python--pptx-PowerPoint%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JSZip-PPTX%20Processing-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
+<br/>
 </div>
 
 🚀 Featured Projects
@@ -150,7 +150,7 @@ Modified PowerPoint regeneration
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dradya&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dradya&show_icons=true&hide_border=true&rank_icon=github&theme=transparent">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dradya&layout=compact&hide_border=true&theme=transparent" />
 
@@ -207,7 +207,7 @@ Cloud / Deployment         ██████░░░░░░░░░░░�
 </a>
 
 <a href="mailto:adyatirvir29@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-adyatirvir29%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-adyatirvir29%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 </div>

@@ -4,7 +4,7 @@
 
 Computer Engineering Student • Embedded / IoT Enthusiast • Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Embedded+%26+IoT+Systems;ESP32+%7C+Sensors+%7C+Wireless+Communication;Python+%7C+Flask+%7C+Automation;Learning%2C+Building%2C+Debugging%2C+Repeating" alt="Typing SVG" />
+<img href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Embedded+%26+IoT+Systems;ESP32+%7C+Sensors+%7C+Wireless+Communication;Python+%7C+Flask+%7C+Automation;Learning%2C+Building%2C+Debugging%2C+Repeating" alt="Typing SVG" />
 
 <br/>
 
@@ -57,17 +57,7 @@ Frameworks, Libraries & Tools
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dradya&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dradya&layout=compact&hide_border=true&theme=transparent" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=dradya&hide_border=true&theme=transparent" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dradya&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
 

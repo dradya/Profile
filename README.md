@@ -152,11 +152,11 @@ Modified PowerPoint regeneration
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=dradya&show_icons=true&hide_border=true&rank_icon=github&theme=transparent">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dradya&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dradya&layout=compact&hide_border=true&theme=transparent">
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=dradya&hide_border=true&theme=transparent" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=dradya&hide_border=true&theme=transparent" alt="GitHub Streak">
 
 <br/>
 

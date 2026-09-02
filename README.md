@@ -61,7 +61,6 @@ Frameworks, Libraries & Tools
 <img src="https://img.shields.io/badge/ESP32-Embedded%20Systems-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/nRF24L01-Wireless%20Communication-5C6BC0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/mmWave-Human%20Detection-6A1B9A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/python--pptx-PowerPoint%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JSZip-PPTX%20Processing-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 

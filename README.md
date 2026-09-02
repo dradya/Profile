@@ -188,15 +188,13 @@ Diploma in Computer Engineering
 
 </div>
 
-Merit Rank 37 in the Goa DTE Direct Second Year B.E. admission process, 2026–27
-
 🎯 2026–27 Focus
 
-Embedded Systems           ████████████████████  Primary <br>
-IoT Development            ████████████████████  Primary <br>
-Software Engineering       ███████████████░░░░░  Secondary <br>
-DSA / Problem Solving      ███████████░░░░░░░░░  Growing <br>
-Cloud / Deployment         ██████░░░░░░░░░░░░░░  Exploring <br>
+Embedded Systems-------████████████████████  Primary <br>
+IoT Development--------████████████████████  Primary <br>
+Software Engineering---███████████████░░░░░  Secondary <br>
+DSA / Problem Solving--███████████░░░░░░░░░  Growing <br>
+Cloud / Deployment-----██████░░░░░░░░░░░░░░  Exploring <br>
 
 🤝 Connect With Me
 

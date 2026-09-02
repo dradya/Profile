@@ -21,7 +21,6 @@ Computer Engineering Student • Embedded / IoT Enthusiast • Software Develope
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=dradya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<br>
 </div>
 
 👩‍💻 About Me

@@ -20,25 +20,11 @@ Computer Engineering Student • Embedded / IoT Enthusiast • Software Develope
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dradya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
 </div>
 
 About Me:
 
 🎓 B.E. in Computer Engineering at Government Engineering College, Goa
-
-🎯 Primary career direction: Embedded Systems & IoT
-
-💻 Secondary direction: Software Engineering
-
-🔧 I like combining hardware + software + wireless communication
-
-🧠 Currently improving DSA, problem solving, embedded development, and practical software engineering
-
-🛰️ Built an ESP32-based wireless human-presence detection system
-
-🤖 Built AI-powered PowerPoint editing tools during my IT internship at Syngenta Biosciences Pvt. Ltd.
 
 🏸 Competitive sports background in Badminton, Table Tennis, Chess, Athletics
 
@@ -100,19 +86,11 @@ Diploma in Computer Engineering
 
 🏆 Highlights
 
-<div align="center">
+<div align="leftr">
 
 <img src="https://img.shields.io/badge/Goa%20DTE-Merit%20Rank%2037-2E7D32?style=for-the-badge" />
 
 </div>
-
-🎯 2026–27 Focus
-
-Embedded Systems ████████████████████  Primary <br>
-IoT Development ████████████████████  Primary <br>
-Software Engineering ███████████████░░░░░  Secondary <br>
-DSA / Problem Solving ███████████░░░░░░░░░  Growing <br>
-Cloud / Deployment ██████░░░░░░░░░░░░░░  Exploring <br>
 
 🤝 Connect With Me
 
